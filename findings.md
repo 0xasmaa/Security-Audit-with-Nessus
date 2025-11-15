@@ -8,9 +8,9 @@
 | Vulnerability            | Severity | Description                      | CVE      | Recommendation                                                                 |
 |--------------------------|----------|----------------------------------|--------- |--------------------------------------------------------------------------------|
 | SMB Signing Not Required | Medium   | The SMB server allows            | CVE-XXXX | Enable SMB signing on the server or restrict SMB access to trusted networks.   |
-|                          |             connections without SMB signing,|          |                                                                                |
-|                          |             making it vulnerable            |          |                                                                                |
-|                          |             to man-in-the-middle attacks.   |          |                                                                                |
+|                          |          |   connections without SMB signing,|          |                                                                                |
+|                          |          |   making it vulnerable            |          |                                                                                |
+|                          |          |   to man-in-the-middle attacks.   |          |                                                                                |
 
 ## Risk Assessment
 - Critical: 0
