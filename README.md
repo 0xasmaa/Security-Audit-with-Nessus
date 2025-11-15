@@ -1,39 +1,30 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=OpenVAS%20Security%20Audit&fontColor=9fef00&fontSize=40)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=2d004d&height=120&section=header&text=Network+Vulnerability+Scan&fontColor=ffb7ff&fontSize=40)
 
-## 🔎 Overview
-This project demonstrates how to perform a **professional security audit** using OpenVAS.  
-It includes:
-- Full vulnerability scan
-- Analysis of critical, high, medium findings
-- Screenshots of the dashboard and reports
-- Remediation guide written in simple language
+# Network Vulnerability Scanning Project
+
+A cybersecurity lab project demonstrating **network vulnerability scanning** using **Nessus** in a controlled environment.
+
+This project includes scan screenshots, a full findings report, and remediation recommendations.
 
 ---
 
-## 📁 Project Structure
-```
-/Screenshots
-/Scan-Reports
-/Findings
-/Remediation-Guide
-```
+## 🔐 Skills Demonstrated
+- Vulnerability scanning with Nessus
+- Risk assessment and CVE analysis
+- Lab setup for safe testing
+- Documentation and reporting
 
 ---
 
-## 🧪 Tools Used
-- OpenVAS / Greenbone Vulnerability Manager  
-- Nmap (support scanning)
-- Linux (Ubuntu)
+## 📂 Project Structure
+- `/Findings`: Summary of vulnerabilities and risk assessment  
+- `/Remediation-Guide`: Recommendations for fixing issues  
 
 ---
 
-## 📄 Deliverables
-- **Technical Report (PDF)**  
-- **Executive Summary**  
-- **Risk Score Before/After**  
-- **Fix Priority Checklist**
+## 📖 Medium Article
+Read the full write-up of this project:  
+[How I Did a Network Vulnerability Scanning Project with Nessus](https://medium.com/@0xasmaa/how-i-did-a-network-vulnerability-scanning-project-with-nessus-and-how-you-can-too-d414e41344b4)
 
----
 
-## 🎯 Goal
-Show practical experience in **identifying & explaining vulnerabilities**, which is a core skill for pentesters, SOC analysts, and freelance security auditors.
+
